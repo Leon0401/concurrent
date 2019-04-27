@@ -1,4 +1,4 @@
-package com.atguigu.concurrent.lock;
+package com.stark.concurrent.lock;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 

@@ -1,4 +1,4 @@
-package com.atguigu.concurrent.lambdaexpress;
+package com.stark.concurrent.lambdaexpress;
 
 /**
  * 显式申明是一个函数式接口

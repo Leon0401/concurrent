@@ -1,4 +1,4 @@
-package com.atguigu.concurrent.saleticket;
+package com.stark.concurrent.saleticket;
 
 /**
  * 单独卖票。不形成并发。

@@ -1,4 +1,4 @@
-package com.atguigu.concurrent.saleticket;
+package com.stark.concurrent.saleticket;
 
 public class SaleTickets implements Runnable
 {

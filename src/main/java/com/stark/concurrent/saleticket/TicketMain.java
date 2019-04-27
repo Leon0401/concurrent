@@ -1,4 +1,4 @@
-package com.atguigu.concurrent.saleticket;
+package com.stark.concurrent.saleticket;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

@@ -1,4 +1,4 @@
-package com.atguigu.concurrent.collection.safe;
+package com.stark.concurrent.collection.safe;
 
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
